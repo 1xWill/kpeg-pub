@@ -1,0 +1,624 @@
+{
+  "backgrounds": [
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 10
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 11
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 12
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 13
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 14
+      }
+    ]
+  ],
+  "breeds": [
+    [
+      {
+        "contractName": "KPEGArtSource9",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource5",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource5",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource1",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource1",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource3",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource8",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource8",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource8",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource5",
+        "index": 2
+      }
+    ]
+  ],
+  "clothes": [
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 9
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource9",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource3",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource9",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource1",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource9",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 3
+      }
+    ]
+  ],
+  "moods": [
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 8
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 6
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 21
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 10
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 23
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 8
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 8
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource3",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 6
+      }
+    ]
+  ],
+  "marks": [
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 11
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 26
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 18
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 32
+      }
+    ]
+  ],
+  "mouths": [
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 22
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 29
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 30
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 33
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 24
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 27
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 34
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 35
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 31
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 15
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 25
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 16
+      }
+    ]
+  ],
+  "eyes": [
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 8
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 20
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 17
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 9
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 6
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 36
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 28
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 19
+      }
+    ]
+  ],
+  "accessories": [
+    [
+      {
+        "contractName": "KPEGArtSource8",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource4",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 2
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource3",
+        "index": 3
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource2",
+        "index": 1
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 6
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 6
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 4
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource6",
+        "index": 6
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource10",
+        "index": 0
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 5
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource0",
+        "index": 7
+      }
+    ],
+    [
+      {
+        "contractName": "KPEGArtSource7",
+        "index": 2
+      }
+    ]
+  ]
+}

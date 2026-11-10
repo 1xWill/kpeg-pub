@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "target": "ES2022",
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "types": ["node", "mocha"]
+  },
+  "include": ["hardhat.config.ts", "test/**/*.ts"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "kpeg",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "packageManager": "pnpm@10.18.3",
+  "scripts": {
+    "demo": "node scripts/demo-local.mjs",
+    "optimize:trait-art": "node scripts/optimize-trait-art.mjs",
+    "generate:trait-art": "node scripts/generate-trait-art.mjs && pnpm --filter @kpeg/core build",
+    "build": "pnpm -r build",
+    "test": "pnpm --filter @kpeg/core build && pnpm -r test",
+    "e2e:local": "node scripts/e2e-local.mjs",
+    "verify": "pnpm build && pnpm test && pnpm e2e:local",
+    "assert:app-env": "node scripts/assert-app-env.mjs",
+    "dev": "pnpm assert:app-env && pnpm --filter @kpeg/core build && pnpm --parallel --filter @kpeg/indexer --filter @kpeg/web dev",
+    "dev:api": "pnpm assert:app-env && pnpm --filter @kpeg/indexer dev",
+    "dev:web": "pnpm assert:app-env && pnpm --filter @kpeg/core build && pnpm --filter @kpeg/web dev",
+    "sync:scheduler:env": "node scripts/write-sync-scheduler-env.mjs",
+    "smoke:api": "node scripts/smoke-api-routes.mjs",
+    "inspect:region": "node scripts/inspect-runtime-region.mjs",
+    "measure:kpis": "node scripts/measure-kpis.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.3"
+  }
+}
